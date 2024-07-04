@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SADI\\Task\\TaskManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|d:\\sadi\\task\\taskmanagementsystem\\taskmanagementsystem\\auth\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\auth\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\SADI\\Task\\TaskManagementSystem\\taskmanagementsystem\\auth\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\auth\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\SADI\\Task\\TaskManagementSystem\\taskmanagementsystem\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\SADI\\Task\\TaskManagementSystem\\taskmanagementsystem\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\SADI\\Task\\TaskManagementSystem\\taskmanagementsystem\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\SADI\\Task\\TaskManagementSystem\\taskmanagementsystem\\controllers\\subtaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\controllers\\subtaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\SADI\\Task\\TaskManagementSystem\\taskmanagementsystem\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\SADI\\Task\\TaskManagementSystem\\taskmanagementsystem\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\SADI\\Task\\TaskManagementSystem\\taskmanagementsystem\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\SADI\\Task\\TaskManagementSystem\\taskmanagementsystem\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\SADI\\Task\\TaskManagementSystem\\taskmanagementsystem\\views\\task\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\views\\task\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\SADI\\Task\\TaskManagementSystem\\taskmanagementsystem\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\SADI\\Task\\TaskManagementSystem\\taskmanagementsystem\\dtos\\subtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\dtos\\subtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\SADI\\Task\\TaskManagementSystem\\taskmanagementsystem\\ef\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\ef\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\SADI\\Task\\TaskManagementSystem\\taskmanagementsystem\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\SADI\\Task\\TaskManagementSystem\\taskmanagementsystem\\views\\task\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\views\\task\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\SADI\\Task\\TaskManagementSystem\\taskmanagementsystem\\views\\task\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\views\\task\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\SADI\\Task\\TaskManagementSystem\\taskmanagementsystem\\views\\task\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\views\\task\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\SADI\\Task\\TaskManagementSystem\\taskmanagementsystem\\ef\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\ef\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|D:\\SADI\\Task\\TaskManagementSystem\\taskmanagementsystem\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F318966-DEC1-4140-A4D2-F434B66A979E}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Auth\\Admin.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Auth\\Admin.cs",
+              "ToolTip": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Auth\\Admin.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Auth\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:42:54.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Auth\\User.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Auth\\User.cs",
+              "ToolTip": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Auth\\User.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Auth\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:39:53.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:30:40.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logged.cs",
+              "DocumentMoniker": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Auth\\Logged.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Auth\\Logged.cs",
+              "ToolTip": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Auth\\Logged.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Auth\\Logged.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:05:18.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\EF\\User.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\EF\\User.cs",
+              "ToolTip": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\EF\\User.cs",
+              "RelativeToolTip": "TaskManagementSystem\\EF\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:52:04.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\DTOs\\UserDTO.cs",
+              "ToolTip": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "TaskManagementSystem\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:08:17.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Views\\Task\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Views\\Task\\Index.cshtml",
+              "ToolTip": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Views\\Task\\Index.cshtml",
+              "RelativeToolTip": "TaskManagementSystem\\Views\\Task\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T07:33:54.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Views\\Task\\Details.cshtml",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Views\\Task\\Details.cshtml",
+              "ToolTip": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Views\\Task\\Details.cshtml",
+              "RelativeToolTip": "TaskManagementSystem\\Views\\Task\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T08:04:45.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Views\\Task\\Create.cshtml",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Views\\Task\\Create.cshtml",
+              "ToolTip": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Views\\Task\\Create.cshtml",
+              "RelativeToolTip": "TaskManagementSystem\\Views\\Task\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T07:37:49.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubtaskController.cs",
+              "DocumentMoniker": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Controllers\\SubtaskController.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Controllers\\SubtaskController.cs",
+              "ToolTip": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Controllers\\SubtaskController.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Controllers\\SubtaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:32:00.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistrationDTO.cs",
+              "DocumentMoniker": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\DTOs\\RegistrationDTO.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\DTOs\\RegistrationDTO.cs",
+              "ToolTip": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\DTOs\\RegistrationDTO.cs",
+              "RelativeToolTip": "TaskManagementSystem\\DTOs\\RegistrationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:00:47.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "TaskManagementSystem\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:40:59.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskDTO.cs",
+              "DocumentMoniker": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\DTOs\\TaskDTO.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\DTOs\\TaskDTO.cs",
+              "ToolTip": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\DTOs\\TaskDTO.cs",
+              "RelativeToolTip": "TaskManagementSystem\\DTOs\\TaskDTO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwBsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:20:26.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Views\\Task\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Views\\Task\\Edit.cshtml",
+              "ToolTip": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Views\\Task\\Edit.cshtml",
+              "RelativeToolTip": "TaskManagementSystem\\Views\\Task\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwCQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T07:58:58.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Views\\Task\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Views\\Task\\Delete.cshtml",
+              "ToolTip": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Views\\Task\\Delete.cshtml",
+              "RelativeToolTip": "TaskManagementSystem\\Views\\Task\\Delete.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T08:02:54.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubtaskDTO.cs",
+              "DocumentMoniker": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\DTOs\\SubtaskDTO.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\DTOs\\SubtaskDTO.cs",
+              "ToolTip": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\DTOs\\SubtaskDTO.cs",
+              "RelativeToolTip": "TaskManagementSystem\\DTOs\\SubtaskDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:31:02.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Subtask.cs",
+              "DocumentMoniker": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\EF\\Subtask.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\EF\\Subtask.cs",
+              "ToolTip": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\EF\\Subtask.cs",
+              "RelativeToolTip": "TaskManagementSystem\\EF\\Subtask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:31:06.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\EF\\Task.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\EF\\Task.cs",
+              "ToolTip": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\EF\\Task.cs",
+              "RelativeToolTip": "TaskManagementSystem\\EF\\Task.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:20:05.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Controllers\\RegistrationController.cs",
+              "ToolTip": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Controllers\\RegistrationController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:57:53.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\SADI\\Task\\TaskManagementSystem\\TaskManagementSystem\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "TaskManagementSystem\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T06:54:00.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

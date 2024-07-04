@@ -1,0 +1,74 @@
+﻿@model TaskManagementSystem.DTOs.TaskDTO
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Task</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Markas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Markas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Progress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Progress)
+        </dd>
+
+    </dl>
+</div>
+
+<h3>Subtasks</h3>
+@if (Model.Subtasks != null && Model.Subtasks.Any())
+{
+    <ul>
+        @foreach (var subtask in Model.Subtasks)
+        {
+            <li>@subtask.Name</li>
+        }
+    </ul>
+}
+else
+{
+    <p>No subtasks found.</p>
+}
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
