@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Advance .NET\\FinalTerm\\IntroTierApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE8B81F-DC68-4E49-A964-8F02DE05BC84}|BLL\\BLL.csproj|D:\\Advance .NET\\FinalTerm\\IntroTierApp\\bll\\service\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE8B81F-DC68-4E49-A964-8F02DE05BC84}|BLL\\BLL.csproj|solutionrelative:bll\\service\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8C4C5E-B2D5-44D8-AB51-79C5CF7A5CB1}|IntroTierApp\\IntroTierApp.csproj|d:\\advance .net\\finalterm\\introtierapp\\introtierapp\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8C4C5E-B2D5-44D8-AB51-79C5CF7A5CB1}|IntroTierApp\\IntroTierApp.csproj|solutionrelative:introtierapp\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC1104B-B5DD-4BF5-8799-BB4E43336D2A}|DAL\\DAL.csproj|D:\\Advance .NET\\FinalTerm\\IntroTierApp\\dal\\repos\\personrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC1104B-B5DD-4BF5-8799-BB4E43336D2A}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\personrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC1104B-B5DD-4BF5-8799-BB4E43336D2A}|DAL\\DAL.csproj|D:\\Advance .NET\\FinalTerm\\IntroTierApp\\dal\\ef\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC1104B-B5DD-4BF5-8799-BB4E43336D2A}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonRepo.cs",
+              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\IntroTierApp\\DAL\\Repos\\PersonRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\PersonRepo.cs",
+              "ToolTip": "D:\\Advance .NET\\FinalTerm\\IntroTierApp\\DAL\\Repos\\PersonRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\PersonRepo.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:58:37.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\IntroTierApp\\BLL\\Service\\PersonService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\PersonService.cs",
+              "ToolTip": "D:\\Advance .NET\\FinalTerm\\IntroTierApp\\BLL\\Service\\PersonService.cs",
+              "RelativeToolTip": "BLL\\Service\\PersonService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:37:18.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\IntroTierApp\\IntroTierApp\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "IntroTierApp\\Controllers\\PersonController.cs",
+              "ToolTip": "D:\\Advance .NET\\FinalTerm\\IntroTierApp\\IntroTierApp\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "IntroTierApp\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:42:23.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\IntroTierApp\\DAL\\EF\\Context.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Context.cs",
+              "ToolTip": "D:\\Advance .NET\\FinalTerm\\IntroTierApp\\DAL\\EF\\Context.cs",
+              "RelativeToolTip": "DAL\\EF\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:06:20.072Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

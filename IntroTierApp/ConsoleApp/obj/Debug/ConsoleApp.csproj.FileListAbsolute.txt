@@ -1,0 +1,14 @@
+D:\Advance .NET\FinalTerm\IntroTierApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Advance .NET\FinalTerm\IntroTierApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Advance .NET\FinalTerm\IntroTierApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Advance .NET\FinalTerm\IntroTierApp\ConsoleApp\bin\Debug\BLL.dll
+D:\Advance .NET\FinalTerm\IntroTierApp\ConsoleApp\bin\Debug\DAL.dll
+D:\Advance .NET\FinalTerm\IntroTierApp\ConsoleApp\bin\Debug\AutoMapper.dll
+D:\Advance .NET\FinalTerm\IntroTierApp\ConsoleApp\bin\Debug\BLL.pdb
+D:\Advance .NET\FinalTerm\IntroTierApp\ConsoleApp\bin\Debug\DAL.pdb
+D:\Advance .NET\FinalTerm\IntroTierApp\ConsoleApp\bin\Debug\AutoMapper.xml
+D:\Advance .NET\FinalTerm\IntroTierApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+D:\Advance .NET\FinalTerm\IntroTierApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Advance .NET\FinalTerm\IntroTierApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.Up2Date
+D:\Advance .NET\FinalTerm\IntroTierApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Advance .NET\FinalTerm\IntroTierApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
