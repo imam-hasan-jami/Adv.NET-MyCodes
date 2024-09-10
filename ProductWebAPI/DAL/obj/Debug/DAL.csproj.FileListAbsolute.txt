@@ -1,0 +1,14 @@
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\bin\Debug\DAL.dll
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\bin\Debug\DAL.pdb
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\obj\Debug\DAL.dll
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\obj\Debug\DAL.pdb
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\bin\Debug\DAL.dll.config
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\bin\Debug\EntityFramework.dll
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\bin\Debug\EntityFramework.xml
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\obj\Debug\DAL.Migrations.UpdateInitialCatalog.resources
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
