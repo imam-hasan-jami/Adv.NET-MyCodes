@@ -41,6 +41,21 @@ namespace ProductWebAPI.Controllers
             }
         }
 
+        [HttpGet]
+        [Route("{id}/products")]
+        public HttpResponseMessage GetWithProducts(int id)
+        {
+            try
+            {
+                var data = CategoryService.GetWithProducts(id);
+                return Request.CreateResponse(HttpStatusCode.OK, data);
+            }
+            catch (Exception ex)
+            {
+                return Request.CreateResponse(HttpStatusCode.InternalServerError, ex.Message);
+            }
+        }
+
         [HttpPost]
         [Route("create")]
         public HttpResponseMessage Create([FromBody] CategoryDTO obj)

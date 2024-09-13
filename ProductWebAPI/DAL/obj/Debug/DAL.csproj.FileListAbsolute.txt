@@ -12,3 +12,5 @@ D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\bin\Debug\EntityFram
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\obj\Debug\DAL.csproj.Up2Date
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\obj\Debug\DAL.Migrations.UpdateInitialCatalog.resources
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\obj\Debug\DAL.Migrations.seed.resources
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\obj\Debug\DAL.Migrations.UserTableAdded.resources

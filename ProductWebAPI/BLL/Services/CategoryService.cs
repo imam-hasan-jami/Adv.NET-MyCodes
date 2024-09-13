@@ -18,6 +18,8 @@ namespace BLL.Services
             {
                 cfg.CreateMap<Category, CategoryDTO>();
                 cfg.CreateMap<CategoryDTO, Category>();
+                cfg.CreateMap<Category, CategoryProductDTO>();
+                cfg.CreateMap<Product, ProductDTO>();
             });
             return new Mapper(config);
         }
@@ -32,6 +34,12 @@ namespace BLL.Services
         {
             var data = DataAccess.CategoryData().Get(id);
             return GetMapper().Map<CategoryDTO>(data);
+        }
+
+        public static CategoryProductDTO GetWithProducts(int id)
+        {
+            var data = DataAccess.CategoryData().Get(id);
+            return GetMapper().Map<CategoryProductDTO>(data);
         }
 
         public static bool Create(CategoryDTO obj)

@@ -10,8 +10,6 @@ namespace BLL.DTOs
     public class CategoryDTO
     {
         public int Id { get; set; }
-        [StringLength(10)]
-        [Required]
         public string Name { get; set; }
     }
 }
