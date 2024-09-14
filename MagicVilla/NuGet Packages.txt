@@ -1,0 +1,8 @@
+before using [HttpPatch]
+1) jsonpatch
+2) newtonsoftjson
+	** need to add newtonsoftjson after AddControllers()
+	=> builder.Services.AddControllers().AddNewtonsoftJson();
+
+https://jsonpatch.com/
+-> apply the "replace "from the documentation 
