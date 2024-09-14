@@ -11,11 +11,11 @@
       "RelativeMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|d:\\advance .net\\finalterm\\adv.net-mycodes\\productwebapi\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|d:\\advance .net\\finalterm\\adv.net-mycodes\\productwebapi\\dal\\interfaces\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\dal\\interfaces\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -47,11 +47,11 @@
       "RelativeMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tablemodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3DFCA11-B449-4B24-873A-EDC7AA565437}|BLL\\BLL.csproj|d:\\advance .net\\finalterm\\adv.net-mycodes\\productwebapi\\bll\\dtos\\categoryproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3DFCA11-B449-4B24-873A-EDC7AA565437}|BLL\\BLL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\bll\\dtos\\categoryproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3DFCA11-B449-4B24-873A-EDC7AA565437}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\categoryproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|d:\\advance .net\\finalterm\\adv.net-mycodes\\productwebapi\\dal\\ef\\tablemodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\dal\\ef\\tablemodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tablemodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -100,7 +100,7 @@
               "RelativeDocumentMoniker": "BLL\\Services\\AuthService.cs",
               "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\BLL\\Services\\AuthService.cs",
               "RelativeToolTip": "BLL\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T14:08:21.871Z",
               "EditorCaption": ""
@@ -115,8 +115,7 @@
               "RelativeToolTip": "DAL\\Interfaces\\IAuth.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T14:00:54.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T14:00:54.507Z"
             },
             {
               "$type": "Document",
@@ -128,8 +127,7 @@
               "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAqwAoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T11:46:14.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T11:46:14.486Z"
             },
             {
               "$type": "Document",
@@ -141,8 +139,7 @@
               "RelativeToolTip": "ProductWebAPI\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAQwDsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T13:09:13.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T13:09:13.322Z"
             },
             {
               "$type": "Document",
@@ -154,8 +151,7 @@
               "RelativeToolTip": "DAL\\EF\\TableModels\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:56:50.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T15:56:50.916Z"
             },
             {
               "$type": "Document",
@@ -167,8 +163,7 @@
               "RelativeToolTip": "BLL\\DTOs\\ProductDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:55:36.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T15:55:36.025Z"
             },
             {
               "$type": "Document",
@@ -180,8 +175,7 @@
               "RelativeToolTip": "BLL\\Services\\CategoryService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAmwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:54:49.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T15:54:49.341Z"
             },
             {
               "$type": "Document",
@@ -193,8 +187,7 @@
               "RelativeToolTip": "BLL\\Services\\ProductService.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:54:34.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T15:54:34.093Z"
             },
             {
               "$type": "Document",
@@ -206,8 +199,7 @@
               "RelativeToolTip": "DAL\\Repos\\ProductRepo.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:24:20.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T15:24:20.906Z"
             },
             {
               "$type": "Document",
@@ -219,8 +211,7 @@
               "RelativeToolTip": "DAL\\Repos\\CategoryRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:14:16.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T15:14:16.506Z"
             },
             {
               "$type": "Document",
@@ -232,8 +223,7 @@
               "RelativeToolTip": "DAL\\DataAccess.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T13:17:33.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T13:17:33.725Z"
             },
             {
               "$type": "Document",
@@ -245,8 +235,7 @@
               "RelativeToolTip": "ProductWebAPI\\Controllers\\ProductController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T13:16:20.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T13:16:20.547Z"
             },
             {
               "$type": "Document",
@@ -258,8 +247,7 @@
               "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:03:22.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T15:03:22.804Z"
             },
             {
               "$type": "Document",
@@ -271,8 +259,7 @@
               "RelativeToolTip": "DAL\\EF\\TableModels\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:57:38.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T15:57:38.717Z"
             },
             {
               "$type": "Document",
@@ -284,8 +271,7 @@
               "RelativeToolTip": "BLL\\DTOs\\CategoryProductDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T10:44:09.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T10:44:09.875Z"
             },
             {
               "$type": "Document",
@@ -297,8 +283,7 @@
               "RelativeToolTip": "DAL\\EF\\PContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T14:15:01.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T14:15:01.775Z"
             },
             {
               "$type": "Document",
@@ -310,8 +295,7 @@
               "RelativeToolTip": "BLL\\DTOs\\CategoryDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:55:47.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T15:55:47.641Z"
             },
             {
               "$type": "Document",
