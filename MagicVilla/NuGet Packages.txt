@@ -38,3 +38,8 @@ builder.Host.UseSerilog();
 
 	-> _logger.LogInformation("Getting all villas");
 	-> _logger.LogError("Get Villa Error with Id " + id);
+
+#Entity framework
+
+install microsoft entity framrwork core sql server
+install microsoft entity framework core tools
