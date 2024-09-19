@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="fe2cacdc7d40497f83ac7002599c2591" Name="Diagram1">
+        <EntityTypeShape EntityType="dotnetDBModel.Comment" Width="1.5" PointX="3" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="dotnetDBModel.CommentsNew" Width="1.5" PointX="3" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dotnetDBModel.Like" Width="1.5" PointX="3" PointY="9.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dotnetDBModel.Post" Width="1.5" PointX="0.75" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="dotnetDBModel.PostTag" Width="1.5" PointX="6" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dotnetDBModel.Tag" Width="1.5" PointX="3.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dotnetDBModel.User" Width="1.5" PointX="0.75" PointY="2.5" IsExpanded="true" />
+        <AssociationConnector Association="dotnetDBModel.FK_Comments_Posts" ManuallyRouted="false" />
+        <AssociationConnector Association="dotnetDBModel.FK_CommentsNew_Posts" ManuallyRouted="false" />
+        <AssociationConnector Association="dotnetDBModel.FK_CommentsNew_User" ManuallyRouted="false" />
+        <AssociationConnector Association="dotnetDBModel.FK_Likes_Posts" ManuallyRouted="false" />
+        <AssociationConnector Association="dotnetDBModel.FK_Likes_User" ManuallyRouted="false" />
+        <AssociationConnector Association="dotnetDBModel.FK_PostTags_Posts" ManuallyRouted="false" />
+        <AssociationConnector Association="dotnetDBModel.FK_PostTags_Tags" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
