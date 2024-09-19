@@ -1,10 +1,18 @@
-#before using [HttpPatch]
+### Entity framework
+
+1) install microsoft entity framrwork core sql server
+2) install microsoft entity framework core tools
+
+
+
+
+### before using [HttpPatch]
 1) jsonpatch
 2) newtonsoftjson
-	** need to add newtonsoftjson after AddControllers()
+	## need to add newtonsoftjson in Program.cs after builder.Services.AddControllers()
 	=> builder.Services.AddControllers().AddNewtonsoftJson();
 
-https://jsonpatch.com/
+for more documentation, visit -> https://jsonpatch.com/
 -> apply the "replace "from the documentation
 
 example:
@@ -16,7 +24,10 @@ example:
 	}
 ]
 
-#logger [Serilog]
+
+
+
+### logger [Serilog]
 
 install Serilog.AspNetCore in the MagicVilla_VillaAPI project
 install Serilog.Sinks.File
@@ -39,7 +50,3 @@ builder.Host.UseSerilog();
 	-> _logger.LogInformation("Getting all villas");
 	-> _logger.LogError("Get Villa Error with Id " + id);
 
-#Entity framework
-
-install microsoft entity framrwork core sql server
-install microsoft entity framework core tools
