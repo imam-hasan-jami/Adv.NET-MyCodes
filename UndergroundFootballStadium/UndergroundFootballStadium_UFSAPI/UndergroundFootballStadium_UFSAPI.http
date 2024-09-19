@@ -1,0 +1,6 @@
+@UndergroundFootballStadium_UFSAPI_HostAddress = http://localhost:5004
+
+GET {{UndergroundFootballStadium_UFSAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
