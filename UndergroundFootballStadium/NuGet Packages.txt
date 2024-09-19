@@ -1,0 +1,52 @@
+### Entity framework
+
+1) install microsoft entity framrwork core sql server
+2) install microsoft entity framework core tools
+
+
+
+
+### before using [HttpPatch]
+1) jsonpatch
+2) newtonsoftjson
+	## need to add newtonsoftjson in Program.cs after builder.Services.AddControllers()
+	=> builder.Services.AddControllers().AddNewtonsoftJson();
+
+for more documentation, visit -> https://jsonpatch.com/
+-> apply the "replace "from the documentation
+
+example:
+[
+	{
+		"path" : "/name",	//the name of the property you want to change
+		"op" : "replace",
+		"value" : "new villa 2"
+	}
+]
+
+
+
+
+### logger [Serilog]
+
+install Serilog.AspNetCore in the MagicVilla_VillaAPI project
+install Serilog.Sinks.File
+
+=> Program.cs
+Log.Logger = new LoggerConfiguration()
+    .MinimumLevel.Debug()
+    .WriteTo.File("log/villaLogs.txt", rollingInterval: RollingInterval.Day)
+    .CreateLogger();
+
+builder.Host.UseSerilog();
+
+=> VillaAPIController.cs
+ private readonly ILogger<VillaAPIController> _logger;
+ public VillaAPIController(ILogger<VillaAPIController> logger)
+ {
+     _logger = logger;
+ }
+
+	-> _logger.LogInformation("Getting all villas");
+	-> _logger.LogError("Get Villa Error with Id " + id);
+

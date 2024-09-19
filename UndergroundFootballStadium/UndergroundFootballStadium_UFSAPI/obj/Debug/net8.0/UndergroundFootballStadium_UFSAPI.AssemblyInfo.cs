@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UndergroundFootballStadium_UFSAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+221efe6aa9764a6f864bae0b36ffaa0fa33fa2de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0587f6bbb67360b76d77272174f88161871fb81")]
 [assembly: System.Reflection.AssemblyProductAttribute("UndergroundFootballStadium_UFSAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UndergroundFootballStadium_UFSAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

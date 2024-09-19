@@ -135,3 +135,7 @@ D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\UndergroundFootballStadium\Underground
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\UndergroundFootballStadium\UndergroundFootballStadium_UFSAPI\obj\Debug\net8.0\UndergroundFootballStadium_UFSAPI.pdb
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\UndergroundFootballStadium\UndergroundFootballStadium_UFSAPI\obj\Debug\net8.0\UndergroundFootballStadium_UFSAPI.genruntimeconfig.cache
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\UndergroundFootballStadium\UndergroundFootballStadium_UFSAPI\obj\Debug\net8.0\ref\UndergroundFootballStadium_UFSAPI.dll
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\UndergroundFootballStadium\UndergroundFootballStadium_UFSAPI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\UndergroundFootballStadium\UndergroundFootballStadium_UFSAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\UndergroundFootballStadium\UndergroundFootballStadium_UFSAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\UndergroundFootballStadium\UndergroundFootballStadium_UFSAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
