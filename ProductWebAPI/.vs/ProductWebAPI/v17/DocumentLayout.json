@@ -3,80 +3,36 @@
   "WorkspaceRootPath": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3DFCA11-B449-4B24-873A-EDC7AA565437}|BLL\\BLL.csproj|d:\\advance .net\\finalterm\\adv.net-mycodes\\productwebapi\\bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA244E10-E9CD-45A0-B3BA-8A8236BDDBBF}|ProductWebAPI\\ProductWebAPI.csproj|d:\\advance .net\\finalterm\\adv.net-mycodes\\productwebapi\\productwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA244E10-E9CD-45A0-B3BA-8A8236BDDBBF}|ProductWebAPI\\ProductWebAPI.csproj|solutionrelative:productwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DFCA11-B449-4B24-873A-EDC7AA565437}|BLL\\BLL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3DFCA11-B449-4B24-873A-EDC7AA565437}|BLL\\BLL.csproj|solutionrelative:bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\dal\\repos\\tokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\tokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\dal\\interfaces\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\dal\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\dal\\ef\\pcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\pcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA244E10-E9CD-45A0-B3BA-8A8236BDDBBF}|ProductWebAPI\\ProductWebAPI.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\productwebapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA244E10-E9CD-45A0-B3BA-8A8236BDDBBF}|ProductWebAPI\\ProductWebAPI.csproj|solutionrelative:productwebapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3DFCA11-B449-4B24-873A-EDC7AA565437}|BLL\\BLL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3DFCA11-B449-4B24-873A-EDC7AA565437}|BLL\\BLL.csproj|solutionrelative:bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA244E10-E9CD-45A0-B3BA-8A8236BDDBBF}|ProductWebAPI\\ProductWebAPI.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\productwebapi\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA244E10-E9CD-45A0-B3BA-8A8236BDDBBF}|ProductWebAPI\\ProductWebAPI.csproj|solutionrelative:productwebapi\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA244E10-E9CD-45A0-B3BA-8A8236BDDBBF}|ProductWebAPI\\ProductWebAPI.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\productwebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA244E10-E9CD-45A0-B3BA-8A8236BDDBBF}|ProductWebAPI\\ProductWebAPI.csproj|solutionrelative:productwebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\dal\\ef\\tablemodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tablemodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA244E10-E9CD-45A0-B3BA-8A8236BDDBBF}|ProductWebAPI\\ProductWebAPI.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\productwebapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA244E10-E9CD-45A0-B3BA-8A8236BDDBBF}|ProductWebAPI\\ProductWebAPI.csproj|solutionrelative:productwebapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3DFCA11-B449-4B24-873A-EDC7AA565437}|BLL\\BLL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\bll\\dtos\\categoryproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3DFCA11-B449-4B24-873A-EDC7AA565437}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\categoryproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3DFCA11-B449-4B24-873A-EDC7AA565437}|BLL\\BLL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\bll\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DFCA11-B449-4B24-873A-EDC7AA565437}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\dal\\ef\\tablemodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tablemodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3DFCA11-B449-4B24-873A-EDC7AA565437}|BLL\\BLL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3DFCA11-B449-4B24-873A-EDC7AA565437}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3DFCA11-B449-4B24-873A-EDC7AA565437}|BLL\\BLL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\bll\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3DFCA11-B449-4B24-873A-EDC7AA565437}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3DFCA11-B449-4B24-873A-EDC7AA565437}|BLL\\BLL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\bll\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3DFCA11-B449-4B24-873A-EDC7AA565437}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3DFCA11-B449-4B24-873A-EDC7AA565437}|BLL\\BLL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3DFCA11-B449-4B24-873A-EDC7AA565437}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F268DE-E94E-40EF-A737-FD6A742476FD}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,232 +54,101 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenRepo.cs",
+              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\Repos\\TokenRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\TokenRepo.cs",
+              "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\Repos\\TokenRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\TokenRepo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:46:31.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logged.cs",
+              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\ProductWebAPI\\Auth\\Logged.cs",
+              "RelativeDocumentMoniker": "ProductWebAPI\\Auth\\Logged.cs",
+              "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\ProductWebAPI\\Auth\\Logged.cs",
+              "RelativeToolTip": "ProductWebAPI\\Auth\\Logged.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:30:36.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\BLL\\DTOs\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\TokenDTO.cs",
+              "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\BLL\\DTOs\\TokenDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\TokenDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:17:02.406Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\ProductWebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ProductWebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\ProductWebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ProductWebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwC0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:58:59.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\BLL\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\AuthService.cs",
               "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\BLL\\Services\\AuthService.cs",
               "RelativeToolTip": "BLL\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAArwC8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T14:08:21.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IAuth.cs",
-              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\Interfaces\\IAuth.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\IAuth.cs",
-              "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\Interfaces\\IAuth.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\IAuth.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T14:00:54.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserRepo.cs",
-              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\Repos\\UserRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
-              "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\Repos\\UserRepo.cs",
-              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwAoAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T11:46:14.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\ProductWebAPI\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "ProductWebAPI\\Controllers\\CategoryController.cs",
               "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\ProductWebAPI\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "ProductWebAPI\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwDsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T13:09:13.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\EF\\TableModels\\Category.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\Category.cs",
-              "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\EF\\TableModels\\Category.cs",
-              "RelativeToolTip": "DAL\\EF\\TableModels\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:56:50.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\BLL\\DTOs\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\ProductDTO.cs",
-              "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\BLL\\DTOs\\ProductDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\ProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:55:36.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\BLL\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\CategoryService.cs",
-              "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\BLL\\Services\\CategoryService.cs",
-              "RelativeToolTip": "BLL\\Services\\CategoryService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:54:49.341Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\BLL\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\ProductService.cs",
-              "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\BLL\\Services\\ProductService.cs",
-              "RelativeToolTip": "BLL\\Services\\ProductService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:54:34.093Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductRepo.cs",
-              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\Repos\\ProductRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Repos\\ProductRepo.cs",
-              "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\Repos\\ProductRepo.cs",
-              "RelativeToolTip": "DAL\\Repos\\ProductRepo.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:24:20.906Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryRepo.cs",
-              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\Repos\\CategoryRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Repos\\CategoryRepo.cs",
-              "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\Repos\\CategoryRepo.cs",
-              "RelativeToolTip": "DAL\\Repos\\CategoryRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:14:16.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "DataAccess.cs",
               "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\DataAccess.cs",
               "RelativeDocumentMoniker": "DAL\\DataAccess.cs",
               "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\DataAccess.cs",
               "RelativeToolTip": "DAL\\DataAccess.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T13:17:33.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\ProductWebAPI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ProductWebAPI\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\ProductWebAPI\\Controllers\\ProductController.cs",
               "RelativeToolTip": "ProductWebAPI\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwFoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T13:16:20.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IRepo.cs",
-              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\Interfaces\\IRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
-              "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\Interfaces\\IRepo.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:03:22.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\EF\\TableModels\\Product.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\Product.cs",
-              "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\EF\\TableModels\\Product.cs",
-              "RelativeToolTip": "DAL\\EF\\TableModels\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:57:38.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CategoryProductDTO.cs",
-              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\BLL\\DTOs\\CategoryProductDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\CategoryProductDTO.cs",
-              "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\BLL\\DTOs\\CategoryProductDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\CategoryProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T10:44:09.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PContext.cs",
-              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\EF\\PContext.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\PContext.cs",
-              "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\EF\\PContext.cs",
-              "RelativeToolTip": "DAL\\EF\\PContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T14:15:01.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CategoryDTO.cs",
-              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\BLL\\DTOs\\CategoryDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\CategoryDTO.cs",
-              "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\BLL\\DTOs\\CategoryDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\CategoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:55:47.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Repo.cs",
-              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\Repos\\Repo.cs",
-              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
-              "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\DAL\\Repos\\Repo.cs",
-              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:11:53.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\BLL\\Class1.cs",
-              "RelativeDocumentMoniker": "BLL\\Class1.cs",
-              "ToolTip": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\ProductWebAPI\\BLL\\Class1.cs",
-              "RelativeToolTip": "BLL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T13:17:23.111Z"
             }
           ]
         }

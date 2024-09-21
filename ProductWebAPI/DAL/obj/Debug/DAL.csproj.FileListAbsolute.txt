@@ -14,3 +14,4 @@ D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\obj\Debug\DAL.Migrat
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\obj\Debug\DAL.Migrations.seed.resources
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\obj\Debug\DAL.Migrations.UserTableAdded.resources
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\ProductWebAPI\DAL\obj\Debug\DAL.Migrations.TokenTable.resources

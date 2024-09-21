@@ -1,5 +1,6 @@
 ﻿using BLL.DTOs;
 using BLL.Services;
+using ProductWebAPI.Auth;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,7 @@ using System.Web.Http;
 
 namespace ProductWebAPI.Controllers
 {
+    [Logged]
     [RoutePrefix("api/product")]
     public class ProductController : ApiController
     {

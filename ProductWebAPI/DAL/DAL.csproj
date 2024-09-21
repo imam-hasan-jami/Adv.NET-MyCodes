@@ -55,6 +55,7 @@
     <Compile Include="EF\PContext.cs" />
     <Compile Include="EF\TableModels\Category.cs" />
     <Compile Include="EF\TableModels\Product.cs" />
+    <Compile Include="EF\TableModels\Token.cs" />
     <Compile Include="EF\TableModels\User.cs" />
     <Compile Include="Interfaces\IAuth.cs" />
     <Compile Include="Interfaces\IRepo.cs" />
@@ -70,11 +71,16 @@
     <Compile Include="Migrations\202409131143474_UserTableAdded.Designer.cs">
       <DependentUpon>202409131143474_UserTableAdded.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202409200351520_TokenTable.cs" />
+    <Compile Include="Migrations\202409200351520_TokenTable.Designer.cs">
+      <DependentUpon>202409200351520_TokenTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repos\CategoryRepo.cs" />
     <Compile Include="Repos\ProductRepo.cs" />
     <Compile Include="Repos\Repo.cs" />
+    <Compile Include="Repos\TokenRepo.cs" />
     <Compile Include="Repos\UserRepo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -90,6 +96,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202409131143474_UserTableAdded.resx">
       <DependentUpon>202409131143474_UserTableAdded.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409200351520_TokenTable.resx">
+      <DependentUpon>202409200351520_TokenTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup />
