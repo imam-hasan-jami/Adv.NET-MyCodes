@@ -1,0 +1,14 @@
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\BLL\bin\Debug\BLL.dll
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\BLL\bin\Debug\BLL.pdb
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\BLL\bin\Debug\AutoMapper.dll
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\BLL\bin\Debug\DAL.dll
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\BLL\bin\Debug\DAL.pdb
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\BLL\bin\Debug\DAL.dll.config
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\BLL\bin\Debug\AutoMapper.xml
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\BLL\obj\Debug\BLL.dll
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\BLL\obj\Debug\BLL.pdb
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\BLL\bin\Debug\EntityFramework.dll
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\BLL\bin\Debug\EntityFramework.xml
