@@ -45,7 +45,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DTOs\AuthorDTO.cs" />
+    <Compile Include="DTOs\AuthorWithBooksDTO.cs" />
     <Compile Include="DTOs\BookDTO.cs" />
+    <Compile Include="DTOs\BookSummaryDTO.cs" />
     <Compile Include="DTOs\UserDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\AuthorService.cs" />

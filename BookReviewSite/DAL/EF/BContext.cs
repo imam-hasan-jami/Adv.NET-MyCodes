@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
+using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -17,7 +18,15 @@ namespace DAL.EF
         public DbSet<ReviewVote> ReviewVotes { get; set; }
         public DbSet<Recommendation> Recommendations { get; set; }
 
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Author>()
+                .HasMany(a => a.Books)
+                .WithRequired(b => b.Author)
+                .HasForeignKey(b => b.AuthorId);
 
+            base.OnModelCreating(modelBuilder);
+        }
 
     }
 

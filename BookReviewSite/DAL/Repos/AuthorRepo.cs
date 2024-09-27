@@ -1,6 +1,7 @@
 ﻿using DAL.EF.TableModels;
 using DAL.Interfaces;
 using System;
+using System.Data.Entity;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -31,7 +32,8 @@ namespace DAL.Repos
 
         public Author Get(int id)
         {
-            return db.Authors.Find(id);
+            //return db.Authors.Find(id);
+            return db.Authors.Include(a => a.Books).FirstOrDefault(a => a.AuthorId == id);
         }
 
         public Author Update(Author obj)

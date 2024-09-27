@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using BLL.DTOs;
 using DAL;
+using DAL.EF;
 using DAL.EF.TableModels;
 using System;
 using System.Collections.Generic;
@@ -18,6 +19,9 @@ namespace BLL.Services
             {
                 cfg.CreateMap<Author, AuthorDTO>();
                 cfg.CreateMap<AuthorDTO, Author>();
+                cfg.CreateMap<Author, AuthorWithBooksDTO>().ForMember(dest => dest.Books, opt => opt.MapFrom(src => src.Books));
+                cfg.CreateMap<Book, BookDTO>();
+                cfg.CreateMap<Book, BookSummaryDTO>();
             });
             return new Mapper(config);
         }
@@ -32,6 +36,18 @@ namespace BLL.Services
         {
             var data = DataAccess.AuthorData().Get(id);
             return GetMapper().Map<AuthorDTO>(data);
+        }
+
+        public static AuthorWithBooksDTO GetBooksByAuthorId(int authorId)
+        {
+            /*var author = DataAccess.AuthorData().Get(authorId);
+            var books = author.Books; // Assuming Author entity has a navigation property 'Books'
+
+            var data = DataAccess.AuthorData().Get(authorId);
+            return GetMapper().Map<AuthorWithBooksDTO>(data);*/
+
+            var author = DataAccess.AuthorData().Get(authorId);
+            return GetMapper().Map<AuthorWithBooksDTO>(author);
         }
 
         public static bool Create(AuthorDTO obj)

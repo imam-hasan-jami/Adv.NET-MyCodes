@@ -10,7 +10,7 @@ using System.Web.Http;
 
 namespace ProductWebAPI.Controllers
 {
-    [Logged]
+    //[Logged]
     [RoutePrefix("api/category")]
     public class CategoryController : ApiController
     {

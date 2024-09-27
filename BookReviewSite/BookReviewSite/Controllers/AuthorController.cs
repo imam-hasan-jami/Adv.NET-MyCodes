@@ -42,6 +42,21 @@ namespace BookReviewSite.Controllers
             }
         }
 
+        [HttpGet]
+        [Route("{id}/books")]
+        public HttpResponseMessage GetBooksByAuthorId(int id)
+        {
+            try
+            {
+                var data = AuthorService.GetBooksByAuthorId(id);
+                return Request.CreateResponse(HttpStatusCode.OK, data);
+            }
+            catch (Exception ex)
+            {
+                return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, ex.Message);
+            }
+        }
+
         [HttpPost]
         [Route("create")]
         public HttpResponseMessage Create([FromBody] AuthorDTO obj)

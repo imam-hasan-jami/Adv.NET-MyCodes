@@ -22,5 +22,12 @@ namespace DAL.EF.TableModels
         public string Bio { get; set; }
         [Required]
         public DateTime DateOfBirth { get; set; }
+
+        // Navigation property
+        public ICollection<Book> Books { get; set; }
+        public Author()
+        {
+            Books = new List<Book>();
+        }
     }
 }

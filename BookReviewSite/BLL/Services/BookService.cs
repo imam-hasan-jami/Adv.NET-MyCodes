@@ -18,6 +18,8 @@ namespace BLL.Services
             {
                 cfg.CreateMap<Book, BookDTO>();
                 cfg.CreateMap<BookDTO, Book>();
+                cfg.CreateMap<Author, AuthorWithBooksDTO>().ForMember(dest => dest.Books, opt => opt.MapFrom(src => src.Books));
+                cfg.CreateMap<Book, BookSummaryDTO>();
             });
             return new Mapper(config);
         }
