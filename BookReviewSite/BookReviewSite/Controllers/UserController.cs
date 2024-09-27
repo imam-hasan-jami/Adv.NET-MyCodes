@@ -72,8 +72,6 @@ namespace BookReviewSite.Controllers
             }
         }
 
-        
-
 
         [HttpDelete]
         [Route("delete/{username}")]

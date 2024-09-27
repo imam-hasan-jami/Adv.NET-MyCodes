@@ -12,7 +12,7 @@ namespace BLL.DTOs
         public string Password { get; set; }
         public string Email { get; set; }
         public string Name { get; set; }
-        /*public DateTime JoinDate { get; set; }
-        public string UserType { get; set; }*/
+        public DateTime JoinDate { get; set; } = DateTime.Now;
+        public string UserType { get; set; } = "User";
     }
 }
