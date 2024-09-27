@@ -20,5 +20,10 @@ namespace DAL
         {
             return new AuthorRepo();
         }
+
+        public static IRepo<Book, int, Book> BookData()
+        {
+            return new BookRepo();
+        }
     }
 }
