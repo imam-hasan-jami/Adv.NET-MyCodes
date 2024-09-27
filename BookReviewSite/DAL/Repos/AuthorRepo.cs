@@ -8,35 +8,35 @@ using System.Threading.Tasks;
 
 namespace DAL.Repos
 {
-    internal class UserRepo : Repo, IRepo<User, string, User>
+    internal class AuthorRepo : Repo, IRepo<Author, int, Author>
     {
-        public User Create(User obj)
+        public Author Create(Author obj)
         {
-            db.Users.Add(obj);
+            db.Authors.Add(obj);
             db.SaveChanges();
             return obj;
         }
 
-        public bool Delete(string id)
+        public bool Delete(int id)
         {
             var exobj = Get(id);
-            db.Users.Remove(exobj);
+            db.Authors.Remove(exobj);
             return db.SaveChanges() > 0;
         }
 
-        public List<User> Get()
+        public List<Author> Get()
         {
-            return db.Users.ToList();
+            return db.Authors.ToList();
         }
 
-        public User Get(string username)
+        public Author Get(int id)
         {
-            return db.Users.Find(username);
+            return db.Authors.Find(id);
         }
 
-        public User Update(User obj)
+        public Author Update(Author obj)
         {
-            var exobj = Get(obj.Username);
+            var exobj = Get(obj.AuthorId);
             db.Entry(exobj).CurrentValues.SetValues(obj);
             db.SaveChanges();
             return obj;

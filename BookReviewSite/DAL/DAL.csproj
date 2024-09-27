@@ -64,8 +64,17 @@
     <Compile Include="Migrations\202409261710359_UserTableAdded.Designer.cs">
       <DependentUpon>202409261710359_UserTableAdded.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202409270519384_AuthorTableAdded.cs" />
+    <Compile Include="Migrations\202409270519384_AuthorTableAdded.Designer.cs">
+      <DependentUpon>202409270519384_AuthorTableAdded.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202409270534418_SetAuthorIdStartValue.cs" />
+    <Compile Include="Migrations\202409270534418_SetAuthorIdStartValue.Designer.cs">
+      <DependentUpon>202409270534418_SetAuthorIdStartValue.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repos\AuthorRepo.cs" />
     <Compile Include="Repos\Repo.cs" />
     <Compile Include="Repos\UserRepo.cs" />
   </ItemGroup>
@@ -76,6 +85,12 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202409261710359_UserTableAdded.resx">
       <DependentUpon>202409261710359_UserTableAdded.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409270519384_AuthorTableAdded.resx">
+      <DependentUpon>202409270519384_AuthorTableAdded.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409270534418_SetAuthorIdStartValue.resx">
+      <DependentUpon>202409270534418_SetAuthorIdStartValue.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

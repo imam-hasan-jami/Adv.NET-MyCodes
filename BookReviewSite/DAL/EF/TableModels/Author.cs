@@ -10,6 +10,7 @@ namespace DAL.EF.TableModels
 {
     public class Author
     {
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int AuthorId { get; set; }
         [Required]
         public string Name { get; set; }

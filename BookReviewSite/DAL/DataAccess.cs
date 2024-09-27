@@ -15,5 +15,10 @@ namespace DAL
         {
             return new UserRepo();
         }
+
+        public static IRepo<Author, int, Author> AuthorData()
+        {
+            return new AuthorRepo();
+        }
     }
 }

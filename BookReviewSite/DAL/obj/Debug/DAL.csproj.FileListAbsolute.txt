@@ -12,3 +12,5 @@ D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.dll
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.pdb
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.Migrations.UserTableAdded.resources
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.Migrations.AuthorTableAdded.resources
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.Migrations.SetAuthorIdStartValue.resources
