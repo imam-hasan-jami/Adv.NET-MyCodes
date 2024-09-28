@@ -25,5 +25,10 @@ namespace DAL
         {
             return new BookRepo();
         }
+
+        public static IRepo<Review, int, Review> ReviewData()
+        {
+            return new ReviewRepo();
+        }
     }
 }

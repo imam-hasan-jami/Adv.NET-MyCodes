@@ -17,17 +17,5 @@ namespace DAL.EF
         public DbSet<Review> Reviews { get; set; }
         public DbSet<ReviewVote> ReviewVotes { get; set; }
         public DbSet<Recommendation> Recommendations { get; set; }
-
-        protected override void OnModelCreating(DbModelBuilder modelBuilder)
-        {
-            modelBuilder.Entity<Author>()
-                .HasMany(a => a.Books)
-                .WithRequired(b => b.Author)
-                .HasForeignKey(b => b.AuthorId);
-
-            base.OnModelCreating(modelBuilder);
-        }
-
     }
-
 }

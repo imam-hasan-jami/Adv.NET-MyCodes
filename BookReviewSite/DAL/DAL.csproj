@@ -76,11 +76,16 @@
     <Compile Include="Migrations\202409270837256_BookTableSetBookIdStartValue.Designer.cs">
       <DependentUpon>202409270837256_BookTableSetBookIdStartValue.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202409280637163_reviewTable.cs" />
+    <Compile Include="Migrations\202409280637163_reviewTable.Designer.cs">
+      <DependentUpon>202409280637163_reviewTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repos\AuthorRepo.cs" />
     <Compile Include="Repos\BookRepo.cs" />
     <Compile Include="Repos\Repo.cs" />
+    <Compile Include="Repos\ReviewRepo.cs" />
     <Compile Include="Repos\UserRepo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -99,6 +104,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202409270837256_BookTableSetBookIdStartValue.resx">
       <DependentUpon>202409270837256_BookTableSetBookIdStartValue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409280637163_reviewTable.resx">
+      <DependentUpon>202409280637163_reviewTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

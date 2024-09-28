@@ -15,3 +15,4 @@ D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.cspro
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.Migrations.AuthorTableAdded.resources
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.Migrations.SetAuthorIdStartValue.resources
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.Migrations.BookTableSetBookIdStartValue.resources
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.Migrations.reviewTable.resources
