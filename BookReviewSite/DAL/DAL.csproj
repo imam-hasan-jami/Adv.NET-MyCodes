@@ -88,10 +88,15 @@
     <Compile Include="Migrations\202409280922595_reviewVoteTableUpdatedDate.Designer.cs">
       <DependentUpon>202409280922595_reviewVoteTableUpdatedDate.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202409280941100_recommendationTable.cs" />
+    <Compile Include="Migrations\202409280941100_recommendationTable.Designer.cs">
+      <DependentUpon>202409280941100_recommendationTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repos\AuthorRepo.cs" />
     <Compile Include="Repos\BookRepo.cs" />
+    <Compile Include="Repos\RecommendationRepo.cs" />
     <Compile Include="Repos\Repo.cs" />
     <Compile Include="Repos\ReviewRepo.cs" />
     <Compile Include="Repos\ReviewVoteRepo.cs" />
@@ -122,6 +127,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202409280922595_reviewVoteTableUpdatedDate.resx">
       <DependentUpon>202409280922595_reviewVoteTableUpdatedDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409280941100_recommendationTable.resx">
+      <DependentUpon>202409280941100_recommendationTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

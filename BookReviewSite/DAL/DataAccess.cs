@@ -35,5 +35,10 @@ namespace DAL
         {
             return new ReviewVoteRepo();
         }
+
+        public static IRepo<Recommendation, int, Recommendation> RecommendationData()
+        {
+            return new RecommendationRepo();
+        }
     }
 }
