@@ -16,3 +16,5 @@ D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.Migra
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.Migrations.SetAuthorIdStartValue.resources
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.Migrations.BookTableSetBookIdStartValue.resources
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.Migrations.reviewTable.resources
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.Migrations.reviewVoteTable.resources
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.Migrations.reviewVoteTableUpdatedDate.resources

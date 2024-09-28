@@ -30,5 +30,10 @@ namespace DAL
         {
             return new ReviewRepo();
         }
+
+        public static IRepo<ReviewVote, int, ReviewVote> ReviewVoteData()
+        {
+            return new ReviewVoteRepo();
+        }
     }
 }
