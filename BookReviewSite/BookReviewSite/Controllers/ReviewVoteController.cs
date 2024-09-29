@@ -46,8 +46,23 @@ namespace BookReviewSite.Controllers
         [Route("create")]
         public HttpResponseMessage Create([FromBody] ReviewVoteDTO obj)
         {
+            /*try
+            {
+                var data = ReviewVoteService.Create(obj);
+                return Request.CreateResponse(HttpStatusCode.OK, data);
+            }
+            catch (Exception ex)
+            {
+                return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, ex);
+            }*/
+
             try
             {
+                var existingVote = ReviewVoteService.GetByUserAndReview(obj.Username, obj.ReviewId);
+                if (existingVote != null)
+                {
+                    return Request.CreateErrorResponse(HttpStatusCode.Conflict, "User has already voted for this review.");
+                }
                 var data = ReviewVoteService.Create(obj);
                 return Request.CreateResponse(HttpStatusCode.OK, data);
             }

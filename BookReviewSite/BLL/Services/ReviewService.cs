@@ -67,6 +67,9 @@ namespace BLL.Services
             var book = DataAccess.BookData().Get(review.BookId);
             var author = DataAccess.AuthorData().Get(book.AuthorId);
             var user = DataAccess.UserData().Get(review.Username);
+            var votes = DataAccess.ReviewVoteData().Get().Where(v => v.ReviewId == reviewId);
+            var upvotes = votes.Count(v => v.IsUpvote);
+            var downvotes = votes.Count(v => !v.IsUpvote);
 
             var reviewDetails = new ReviewDetailsDTO
             {
@@ -74,6 +77,8 @@ namespace BLL.Services
                 AuthorId = author.AuthorId,
                 AuthorName = author.Name,
                 ReviewText = review.ReviewText,
+                UpvoteCount = upvotes,
+                DownvoteCount = downvotes,
                 Rating = review.Rating,
                 Username = user.Username,
                 Name = user.Name

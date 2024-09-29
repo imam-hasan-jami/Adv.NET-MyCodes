@@ -12,6 +12,8 @@ namespace BLL.DTOs
         public int AuthorId { get; set; }
         public string AuthorName { get; set; }
         public string ReviewText { get; set; }
+        public int UpvoteCount { get; set; }
+        public int DownvoteCount { get; set; }
         public int Rating { get; set; }
         public string Username { get; set; }
         public string Name { get; set; }

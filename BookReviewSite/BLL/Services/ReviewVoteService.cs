@@ -50,5 +50,12 @@ namespace BLL.Services
         {
             return DataAccess.ReviewVoteData().Delete(id);
         }
+
+        public static ReviewVoteDTO GetByUserAndReview(string username, int reviewId)
+        {
+            var data = DataAccess.ReviewVoteData().Get().FirstOrDefault(v => v.Username == username && v.ReviewId == reviewId);
+
+            return GetMapper().Map<ReviewVoteDTO>(data);
+        }
     }
 }
