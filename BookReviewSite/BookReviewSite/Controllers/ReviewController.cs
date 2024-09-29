@@ -98,7 +98,26 @@ namespace BookReviewSite.Controllers
                 {
                     return Request.CreateResponse(HttpStatusCode.NotFound, new { Message = "Review not found" });
                 }
-                    return Request.CreateResponse(HttpStatusCode.OK, data);
+                return Request.CreateResponse(HttpStatusCode.OK, data);
+            }
+            catch (Exception ex)
+            {
+                return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, ex);
+            }
+        }
+
+        [HttpGet]
+        [Route("bybook/{id}")]
+        public HttpResponseMessage GetReviewDetailsByBookId(int id)
+        {
+            try
+            {
+                var data = ReviewService.GetReviewDetailsByBookId(id);
+                if (data == null)
+                {
+                    return Request.CreateResponse(HttpStatusCode.NotFound, new { Message = "Review not found" });
+                }
+                return Request.CreateResponse(HttpStatusCode.OK, data);
             }
             catch (Exception ex)
             {
