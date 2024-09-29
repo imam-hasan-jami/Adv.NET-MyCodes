@@ -21,3 +21,4 @@ D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.Migra
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.Migrations.recommendationTable.resources
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.Migrations.UpdateDatabaseSchema.resources
 D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.Migrations.UpdateDatabaseSchema1.resources
+D:\Advance .NET\FinalTerm\Adv.NET-MyCodes\BookReviewSite\DAL\obj\Debug\DAL.Migrations.UpdateDBSchema.resources

@@ -13,16 +13,7 @@ namespace BLL.DTOs
         public string AuthorName { get; set; }
         public string ReviewText { get; set; }
         public int Rating { get; set; }
+        public string Username { get; set; }
+        public string Name { get; set; }
     }
-
-    /*public class ReviewDetailsDTO : ReviewDTO
-    {
-        public List<AuthorDTO> Authors { get; set; }
-        public List<BookDTO> Books { get; set; }
-        public ReviewDetailsDTO()
-        {
-            Authors = new List<AuthorDTO>();
-            Books = new List<BookDTO>();
-        }
-    }*/
 }
