@@ -58,7 +58,9 @@
     <Compile Include="EF\TableModels\Recommendation.cs" />
     <Compile Include="EF\TableModels\Review.cs" />
     <Compile Include="EF\TableModels\ReviewVote.cs" />
+    <Compile Include="EF\TableModels\Token.cs" />
     <Compile Include="EF\TableModels\User.cs" />
+    <Compile Include="Interfaces\IAuth.cs" />
     <Compile Include="Interfaces\IRepo.cs" />
     <Compile Include="Migrations\202409261710359_UserTableAdded.cs" />
     <Compile Include="Migrations\202409261710359_UserTableAdded.Designer.cs">
@@ -104,6 +106,10 @@
     <Compile Include="Migrations\202409291100088_UpdateDBSchema.Designer.cs">
       <DependentUpon>202409291100088_UpdateDBSchema.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202409291502158_tokenTable.cs" />
+    <Compile Include="Migrations\202409291502158_tokenTable.Designer.cs">
+      <DependentUpon>202409291502158_tokenTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repos\AuthorRepo.cs" />
@@ -112,6 +118,7 @@
     <Compile Include="Repos\Repo.cs" />
     <Compile Include="Repos\ReviewRepo.cs" />
     <Compile Include="Repos\ReviewVoteRepo.cs" />
+    <Compile Include="Repos\TokenRepo.cs" />
     <Compile Include="Repos\UserRepo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -151,6 +158,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202409291100088_UpdateDBSchema.resx">
       <DependentUpon>202409291100088_UpdateDBSchema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409291502158_tokenTable.resx">
+      <DependentUpon>202409291502158_tokenTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

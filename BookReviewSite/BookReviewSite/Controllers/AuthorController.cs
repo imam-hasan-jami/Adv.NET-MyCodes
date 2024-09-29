@@ -1,5 +1,6 @@
 ﻿using BLL.DTOs;
 using BLL.Services;
+using BookReviewSite.Auth;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,7 @@ using System.Web.Http;
 
 namespace BookReviewSite.Controllers
 {
+    [Logged]
     [RoutePrefix("api/author")]
     public class AuthorController : ApiController
     {

@@ -17,5 +17,6 @@ namespace DAL.EF
         public DbSet<Review> Reviews { get; set; }
         public DbSet<ReviewVote> ReviewVotes { get; set; }
         public DbSet<Recommendation> Recommendations { get; set; }
+        public DbSet<Token> Tokens { get; set; }
     }
 }

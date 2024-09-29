@@ -40,5 +40,15 @@ namespace DAL
         {
             return new RecommendationRepo();
         }
+
+        public static IAuth AuthData()
+        {
+            return new UserRepo();
+        }
+
+        public static IRepo<Token, string, Token> TokenData()
+        {
+            return new TokenRepo();
+        }
     }
 }
