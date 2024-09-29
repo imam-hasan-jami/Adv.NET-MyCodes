@@ -30,5 +30,14 @@ namespace DAL.EF.TableModels
 
         public DateTime ReviewDate { get; set; } = DateTime.Now;
         public DateTime? UpdatedDate { get; set; }
+
+        //Navigation property
+        public virtual ICollection<Author> Authors { get; set; }
+        public virtual ICollection<Book> Books { get; set; }
+        public Review()
+        {
+            Authors = new List<Author>();
+            Books = new List<Book>();
+        }
     }
 }

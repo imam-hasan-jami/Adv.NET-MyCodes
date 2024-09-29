@@ -49,6 +49,7 @@
     <Compile Include="DTOs\BookDTO.cs" />
     <Compile Include="DTOs\BookSummaryDTO.cs" />
     <Compile Include="DTOs\RecommendationDTO.cs" />
+    <Compile Include="DTOs\ReviewDetailsDTO.cs" />
     <Compile Include="DTOs\ReviewDTO.cs" />
     <Compile Include="DTOs\ReviewVoteDTO.cs" />
     <Compile Include="DTOs\UserDTO.cs" />

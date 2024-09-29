@@ -40,12 +40,6 @@ namespace BLL.Services
 
         public static AuthorWithBooksDTO GetBooksByAuthorId(int authorId)
         {
-            /*var author = DataAccess.AuthorData().Get(authorId);
-            var books = author.Books; // Assuming Author entity has a navigation property 'Books'
-
-            var data = DataAccess.AuthorData().Get(authorId);
-            return GetMapper().Map<AuthorWithBooksDTO>(data);*/
-
             var author = DataAccess.AuthorData().Get(authorId);
             return GetMapper().Map<AuthorWithBooksDTO>(author);
         }

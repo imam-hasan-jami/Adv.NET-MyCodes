@@ -92,6 +92,14 @@
     <Compile Include="Migrations\202409280941100_recommendationTable.Designer.cs">
       <DependentUpon>202409280941100_recommendationTable.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202409290838560_UpdateDatabaseSchema.cs" />
+    <Compile Include="Migrations\202409290838560_UpdateDatabaseSchema.Designer.cs">
+      <DependentUpon>202409290838560_UpdateDatabaseSchema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202409290941543_UpdateDatabaseSchema1.cs" />
+    <Compile Include="Migrations\202409290941543_UpdateDatabaseSchema1.Designer.cs">
+      <DependentUpon>202409290941543_UpdateDatabaseSchema1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repos\AuthorRepo.cs" />
@@ -130,6 +138,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202409280941100_recommendationTable.resx">
       <DependentUpon>202409280941100_recommendationTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409290838560_UpdateDatabaseSchema.resx">
+      <DependentUpon>202409290838560_UpdateDatabaseSchema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409290941543_UpdateDatabaseSchema1.resx">
+      <DependentUpon>202409290941543_UpdateDatabaseSchema1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

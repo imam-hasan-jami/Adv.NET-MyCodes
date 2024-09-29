@@ -86,5 +86,24 @@ namespace BookReviewSite.Controllers
                 return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, ex);
             }
         }
+
+        [HttpGet]
+        [Route("{id}/details")]
+        public HttpResponseMessage GetReviewDetails(int id)
+        {
+            try
+            {
+                var data = ReviewService.GetReviewDetails(id);
+                if (data == null)
+                {
+                    return Request.CreateResponse(HttpStatusCode.NotFound, new { Message = "Review not found" });
+                }
+                    return Request.CreateResponse(HttpStatusCode.OK, data);
+            }
+            catch (Exception ex)
+            {
+                return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, ex);
+            }
+        }
     }
 }

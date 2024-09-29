@@ -14,6 +14,6 @@ namespace BLL.DTOs
         public DateTime PublishDate { get; set; }
         public string Genre { get; set; }
         public int AuthorId { get; set; }
-        public AuthorDTO Author { get; set; }
+        //public AuthorDTO Author { get; set; }
     }
 }
