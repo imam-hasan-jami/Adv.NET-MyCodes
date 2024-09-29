@@ -15,5 +15,7 @@ namespace BLL.DTOs
         public string ReviewText { get; set; }
         public DateTime ReviewDate { get; set; } = DateTime.Now;
         public DateTime? UpdatedDate { get; set; }
+        public int UpvoteCount { get; set; }
+        public int DownvoteCount { get; set; }
     }
 }

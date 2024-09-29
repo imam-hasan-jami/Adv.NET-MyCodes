@@ -29,14 +29,38 @@ namespace BLL.Services
 
         public static List<ReviewDTO> Get()
         { 
-            var data = DataAccess.ReviewData().Get();
-            return GetMapper().Map<List<ReviewDTO>>(data);
+            var reviews = DataAccess.ReviewData().Get();
+            var reviewDTOs = GetMapper().Map<List<ReviewDTO>>(reviews);
+
+            var votes = DataAccess.ReviewVoteData().Get();
+
+            foreach (var reviewDTO in reviewDTOs)
+            {
+                reviewDTO.UpvoteCount = votes.Count(v => v.ReviewId == reviewDTO.ReviewId && v.IsUpvote);
+                reviewDTO.DownvoteCount = votes.Count(v => v.ReviewId == reviewDTO.ReviewId && !v.IsUpvote);
+            }
+
+            return reviewDTOs;
         }
 
         public static ReviewDTO Get(int id)
         {
-            var data = DataAccess.ReviewData().Get(id);
-            return GetMapper().Map<ReviewDTO>(data);
+            /*var data = DataAccess.ReviewData().Get(id);
+            return GetMapper().Map<ReviewDTO>(data);*/
+
+            var review = DataAccess.ReviewData().Get(id);
+
+            // Map the review to ReviewDTO
+            var reviewDTO = GetMapper().Map<ReviewDTO>(review);
+
+            // Get all votes for the specific review
+            var votes = DataAccess.ReviewVoteData().Get().Where(v => v.ReviewId == id).ToList();
+
+            // Count the upvotes and downvotes
+            reviewDTO.UpvoteCount = votes.Count(v => v.IsUpvote);
+            reviewDTO.DownvoteCount = votes.Count(v => !v.IsUpvote);
+
+            return reviewDTO;
         }
 
         public static bool Create(ReviewDTO obj)
