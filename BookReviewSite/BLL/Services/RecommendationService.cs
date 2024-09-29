@@ -36,6 +36,22 @@ namespace BLL.Services
 
         public static bool Create(RecommendationDTO obj)
         {
+            /*// Check if the user has already recommended the book
+            var existingRecommendation = DataAccess.RecommendationData()
+                .Get()
+                .FirstOrDefault(r => r.BookId == obj.BookId && r.Username == obj.Username);
+
+            if (existingRecommendation != null)
+            {
+                // User has already recommended this book, so return false or handle it as needed
+                Console.WriteLine("User has already recommended this book once.");
+                return false;
+            }
+
+            // Proceed with creating the recommendation
+            var data = GetMapper().Map<Recommendation>(obj);
+            return DataAccess.RecommendationData().Create(data) != null;*/
+
             var data = GetMapper().Map<Recommendation>(obj);
             return DataAccess.RecommendationData().Create(data) != null;
         }

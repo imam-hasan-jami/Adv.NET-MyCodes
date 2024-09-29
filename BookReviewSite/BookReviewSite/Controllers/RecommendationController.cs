@@ -48,6 +48,17 @@ namespace BookReviewSite.Controllers
         {
             try
             {
+                // Check if the user has already recommended the book
+                var existingRecommendation = RecommendationService.Get()
+                    .FirstOrDefault(r => r.Username == obj.Username && r.BookId == obj.BookId);
+
+                if (existingRecommendation != null)
+                {
+                    // If the user has already recommended this book, return a conflict response
+                    return Request.CreateErrorResponse(HttpStatusCode.Conflict, "User has already recommended this book.");
+                }
+
+                // Create the new recommendation
                 var data = RecommendationService.Create(obj);
                 return Request.CreateResponse(HttpStatusCode.OK, data);
             }

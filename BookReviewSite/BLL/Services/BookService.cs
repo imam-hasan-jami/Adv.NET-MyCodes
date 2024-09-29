@@ -26,14 +26,42 @@ namespace BLL.Services
 
         public static List<BookDTO> Get()
         {
-            var data = DataAccess.BookData().Get();
-            return GetMapper().Map<List<BookDTO>>(data);
+            /*var data = DataAccess.BookData().Get();
+            return GetMapper().Map<List<BookDTO>>(data);*/
+
+            var books = DataAccess.BookData().Get();
+            var bookDTOs = GetMapper().Map<List<BookDTO>>(books);
+
+            var recommendations = DataAccess.RecommendationData().Get();
+
+            foreach (var bookDTO in bookDTOs)
+            {
+                // Filter recommendations for the current book
+                var bookRecommendations = recommendations.Where(r => r.BookId == bookDTO.BookId).ToList();
+
+                // Count recommended and not recommended
+                bookDTO.RecommendedCount = bookRecommendations.Count(r => r.IsRecommended);
+                bookDTO.NotRecommendedCount = bookRecommendations.Count(r => !r.IsRecommended);
+            }
+
+            return bookDTOs;
         }
 
         public static BookDTO Get(int id)
         {
-            var data = DataAccess.BookData().Get(id);
-            return GetMapper().Map<BookDTO>(data);
+            /*var data = DataAccess.BookData().Get(id);
+            return GetMapper().Map<BookDTO>(data);*/
+
+            var book = DataAccess.BookData().Get(id);
+            var bookDTO = GetMapper().Map<BookDTO>(book);
+
+            var recommendations = DataAccess.RecommendationData().Get().Where(r => r.BookId == id).ToList();
+
+            // Count recommended and not recommended
+            bookDTO.RecommendedCount = recommendations.Count(r => r.IsRecommended);
+            bookDTO.NotRecommendedCount = recommendations.Count(r => !r.IsRecommended);
+
+            return bookDTO;
         }
 
         public static bool Create(BookDTO obj)

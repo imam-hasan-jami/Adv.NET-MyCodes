@@ -15,5 +15,8 @@ namespace BLL.DTOs
         public string Genre { get; set; }
         public int AuthorId { get; set; }
         //public AuthorDTO Author { get; set; }
+
+        public int RecommendedCount { get; set; }
+        public int NotRecommendedCount { get; set; }
     }
 }
