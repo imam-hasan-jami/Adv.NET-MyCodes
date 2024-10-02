@@ -1,0 +1,10 @@
+---For MAC:---
+"ConnectionStrings": {
+    "DefaultSQLConnection": "Server=localhost,1433;Database=Magic_VillaAPI;User Id=sa;Password=MyStrongPass123;Encrypt=False;"
+  },
+
+
+---For Windows:---
+"ConnectionStrings": {
+    "DefaultSQLConnection": "Server=DESKTOP-USFQQJI\\SQLEXPRESS;Database=Magic_VillaAPI;TrustServerCertificate=True;Trusted_Connection=True;MultipleActiveResultSets=true"
+  },

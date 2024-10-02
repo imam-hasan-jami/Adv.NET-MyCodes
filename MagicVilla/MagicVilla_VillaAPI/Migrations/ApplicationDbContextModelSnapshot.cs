@@ -70,7 +70,7 @@ namespace MagicVilla_VillaAPI.Migrations
                         {
                             Id = 1,
                             Amenity = "",
-                            CreatedDate = new DateTime(2024, 9, 15, 19, 22, 22, 462, DateTimeKind.Local).AddTicks(5031),
+                            CreatedDate = new DateTime(2024, 10, 2, 13, 15, 32, 460, DateTimeKind.Local).AddTicks(9610),
                             Details = "Luxury Villa with private pool",
                             ImageUrl = "https://dotnetmasteryimages.blob.core.windows.net/bluevillaimages/villa3.jpg",
                             Name = "Royal Villa",
@@ -83,7 +83,7 @@ namespace MagicVilla_VillaAPI.Migrations
                         {
                             Id = 2,
                             Amenity = "",
-                            CreatedDate = new DateTime(2024, 9, 15, 19, 22, 22, 462, DateTimeKind.Local).AddTicks(5041),
+                            CreatedDate = new DateTime(2024, 10, 2, 13, 15, 32, 460, DateTimeKind.Local).AddTicks(9650),
                             Details = "Villa with beach view",
                             ImageUrl = "https://balesin.com/wp-content/uploads/elementor/thumbs/The-Balesin-Royal-Villa-Main-Deck_edited-scaled-qazh3d2czzwzp6bozfkerp9ekf95twqmw41hvl9xgs.jpg",
                             Name = "Beach Villa",
@@ -96,7 +96,7 @@ namespace MagicVilla_VillaAPI.Migrations
                         {
                             Id = 3,
                             Amenity = "",
-                            CreatedDate = new DateTime(2024, 9, 15, 19, 22, 22, 462, DateTimeKind.Local).AddTicks(5042),
+                            CreatedDate = new DateTime(2024, 10, 2, 13, 15, 32, 460, DateTimeKind.Local).AddTicks(9650),
                             Details = "Villa with pool view",
                             ImageUrl = "https://www.villaseminyak.net/images/royal-villa-2-bedroom-b.jpg?x",
                             Name = "Pool Villa",
@@ -109,7 +109,7 @@ namespace MagicVilla_VillaAPI.Migrations
                         {
                             Id = 4,
                             Amenity = "",
-                            CreatedDate = new DateTime(2024, 9, 15, 19, 22, 22, 462, DateTimeKind.Local).AddTicks(5043),
+                            CreatedDate = new DateTime(2024, 10, 2, 13, 15, 32, 460, DateTimeKind.Local).AddTicks(9650),
                             Details = "Villa with garden view",
                             ImageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmgo_9YY6N9i3RPYwR2f8PE0or4f1OM_RbRw&s",
                             Name = "Garden Villa",
@@ -122,7 +122,7 @@ namespace MagicVilla_VillaAPI.Migrations
                         {
                             Id = 5,
                             Amenity = "",
-                            CreatedDate = new DateTime(2024, 9, 15, 19, 22, 22, 462, DateTimeKind.Local).AddTicks(5044),
+                            CreatedDate = new DateTime(2024, 10, 2, 13, 15, 32, 460, DateTimeKind.Local).AddTicks(9650),
                             Details = "Villa with sea view",
                             ImageUrl = "https://www.ghmhotels.com/wp-content/uploads/5bedroom-exterior-villa.jpg",
                             Name = "Sea View Villa",

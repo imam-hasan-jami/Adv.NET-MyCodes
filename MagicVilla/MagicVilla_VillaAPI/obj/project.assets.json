@@ -4587,27 +4587,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SADI\\.nuget\\packages\\": {}
+    "/Users/imamhasansadi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj",
+      "projectUniqueName": "/Users/imamhasansadi/Desktop/Adv.NET-MyCodes/MagicVilla/MagicVilla_VillaAPI/MagicVilla_VillaAPI.csproj",
       "projectName": "MagicVilla_VillaAPI",
-      "projectPath": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj",
-      "packagesPath": "C:\\Users\\SADI\\.nuget\\packages\\",
-      "outputPath": "D:\\Advance .NET\\FinalTerm\\Adv.NET-MyCodes\\MagicVilla\\MagicVilla_VillaAPI\\obj\\",
+      "projectPath": "/Users/imamhasansadi/Desktop/Adv.NET-MyCodes/MagicVilla/MagicVilla_VillaAPI/MagicVilla_VillaAPI.csproj",
+      "packagesPath": "/Users/imamhasansadi/.nuget/packages/",
+      "outputPath": "/Users/imamhasansadi/Desktop/Adv.NET-MyCodes/MagicVilla/MagicVilla_VillaAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SADI\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/imamhasansadi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4673,7 +4670,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
